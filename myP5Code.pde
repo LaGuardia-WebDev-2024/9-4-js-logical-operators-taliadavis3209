@@ -3,14 +3,14 @@ setup = function() {
 };
 
 draw = function() {
-    background(255,255,255,150);
+    background(1,1,2,110);
     strokeWeight(2);
     stroke(0);
-    fill(0, 255, 68); 
+    fill(0, 255, 0); 
     rect(0, 0, 400, 200);  
 
     if(mousePressed && mouseY < 200){
-        fill(200,0,20);
+        fill(255,0,0);
     }
 
     rect(0,0,400,200)

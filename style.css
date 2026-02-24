@@ -9,7 +9,7 @@ html {
 Taken From https://projects.verou.me/css3patterns/ */
 
 body{
-background-color: CornflowerBlue !important;
+background-color: rgb(112, 117, 126) !important;
 background-image: linear-gradient(transparent 50%, rgba(255,255,255,.5) 50%) !important;
 background-size: 50px 50px !important;
 }
